@@ -1,0 +1,8 @@
+[package]
+name = "macrotest"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+m_derive = { path = "./m_derive" }
